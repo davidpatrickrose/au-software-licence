@@ -22,11 +22,12 @@ https://github.com/CodePact/au-components/blob/widgets/service_access.md
 
 ## License Restrictions
 
-Software licensing is generally done on either a "per user" or "per installation" basis. The type of licenses that is appropriate depends on your business purpose. Consider what will be the typical usage of your customers.
+Software licensing is generally done on either a "per user" or "per installation" basis. The way software is licenced depends on the kind of product getting sold.  For example, if software is installed on a server with multiple users - you probably want to sell it by user, since there's only a single installation.
 
 ### Service licences sold per user
 
-This license is valid for installation on multiple computers provided that there is only one primary individual using the Service on all of these computers.
+- Licences to use the Service under the Agreement will be purchased by the Customer on a "per user" basis.
+- The Service may be installed on multiple computers provided that only one individual is using the Service on those computers.
 
 ### Service licences sold per installation
 
