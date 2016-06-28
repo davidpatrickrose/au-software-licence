@@ -24,11 +24,11 @@ https://github.com/CodePact/au-components/blob/widgets/service_access.md
 
 Software licensing is generally done on either a per user or per installation basis. The type of licenses that is appropriate depends on your business purpose. Consider what will be the typical usage of your customers.
 
-### Licenses Per User
+### Service licences sold per user
 
 This license is valid for installation on multiple computers provided that there is only one primary individual using the Service on all of these computers.
 
-### License Per Installation
+### Service licences sold per installation
 
 The license is valid for installation and use on ONE computer at a time. Multiple individuals may use the Service provided it is only installed on one computer.
 
