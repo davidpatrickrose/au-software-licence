@@ -22,7 +22,7 @@ https://github.com/CodePact/au-components/blob/widgets/service_access.md
 
 ## License Restrictions
 
-Software licensing is generally done on either a per user or per installation basis. The type of licenses that is appropriate depends on your business purpose. Consider what will be the typical usage of your customers.
+Software licensing is generally done on either a "per user" or "per installation" basis. The type of licenses that is appropriate depends on your business purpose. Consider what will be the typical usage of your customers.
 
 ### Service licences sold per user
 
