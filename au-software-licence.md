@@ -10,7 +10,7 @@
 
 ## Agreement creation
 
-This document describes a license from the Contractor to the Customer to use software. By installing or using the Service, the Customer agrees to follow the temrs of this document.
+This document describes a license from the Contractor to the Customer to use software. By installing or using the Service, the Customer agrees to follow the terms of this document.
 
 ### Customer creates the Agreement by using the Service.
 
