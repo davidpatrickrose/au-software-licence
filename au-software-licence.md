@@ -1,6 +1,6 @@
-# au Simple EULA
+# Software Licence
 
-`Purpose` This template is for the creation of simple EULAs for the licensing of software in the Australian market. This EULA is aimed towards software that is sold once: not a [subscription model](http://www.google.com).
+`Purpose` This template is for the creation of simple software licences (also known as "EULAs") in the Australian market. The document is aimed at software that is sold once: not software that's sold on a subscription model.
 
 `Party 1 Name` Contractor
 
@@ -8,10 +8,13 @@
 
 `Jurisdiction` Australia
 
+## Agreement creation
 
-## Agreement
+This document describes a license from the Contractor to the Customer to use software. By installing or using the Service, the Customer agrees to follow the temrs of this document.
 
-This agreement describes the license granted to the Customer for the Service. By installing or using the Service, you agree to be bound by this agreement.
+### Customer creates the Agreement by using the Service.
+
+By installing or using the Service in any way, Customer agrees to the terms of the Agreement.
 
 ## License
 
