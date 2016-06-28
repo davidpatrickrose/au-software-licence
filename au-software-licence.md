@@ -14,9 +14,9 @@ This document describes a license from the Contractor to the Customer to use sof
 
 ### Customer creates the Agreement by using the Service.
 
-By installing or using the Service in any way, Customer agrees to the terms of the Agreement.
+Customer agrees to the terms of the Agreement by installing or using the Service.
 
-## License
+## Service licence
 
 https://github.com/CodePact/au-components/blob/widgets/service_access.md
 
@@ -53,7 +53,7 @@ https://github.com/CodePact/au-components/blob/widgets/end_agreement.md
 
 ## Definitions
 
-### Service
+### Service, Services
 means {{software name}}, the software being licensed under this agreement.
 
 ## Variables
