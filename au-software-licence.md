@@ -41,9 +41,13 @@ https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
 
-## Cancellation
+## Cancellation for breach
 
 https://github.com/CodePact/au-components/blob/widgets/cancel_breach.md
+
+## Cancellation for convenience
+
+https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 ## End of Agreement
 
