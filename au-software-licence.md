@@ -57,4 +57,4 @@ https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
 
 ## Widgets
 
-https://github.com/pjbrow/recursive_parser/blob/master/widget_library.json
+https://github.com/pjbrow/recursive_parser/blob/master/library_widgets.json
