@@ -53,19 +53,7 @@ https://github.com/CodePact/au-components/blob/widgets/end_agreement.md
 
 ## Definitions
 
-### Licence, Licences
-means the licence to use the Services under the Agreement.
-
-### Service, Services
-means {{software name}}, the software being licensed under this agreement.
-
-## Variables
-
-#### software name
-
-product name
-
-`Guidance` Enter the name of the software product this license agreement will be applicable too.
+https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
 
 ## Widgets
 
