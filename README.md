@@ -2,7 +2,7 @@
 
 ### Purpose
 
-The open source agreement in this repo licences softwarein **Australia**.  
+The open source agreement in this repo licences software in **Australia**.  
 
 ### LawPatch
 
