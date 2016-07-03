@@ -51,7 +51,7 @@ https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 ## End of Agreement
 
-https://github.com/CodePact/au-components/blob/widgets/end_agreement.md
+https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
 ## Definitions
 
