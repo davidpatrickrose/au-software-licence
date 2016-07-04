@@ -55,7 +55,9 @@ https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
 ## Definitions
 
-https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
+https://github.com/pjbrow/au-defs-wdgts/blob/master/software-licence-defs.md
+
+https://github.com/pjbrow/au-defs-wdgts/blob/master/library_definitions.md
 
 ## Variables
 
@@ -63,4 +65,6 @@ https://github.com/pjbrow/recursive_parser/blob/master/library_variables.md
 
 ## Widgets
 
-https://github.com/pjbrow/recursive_parser/blob/master/library_widgets.json
+https://github.com/pjbrow/au-defs-wdgts/blob/master/software-licence-widgets.json
+
+https://github.com/pjbrow/au-defs-wdgts/blob/master/library_widgets.json
