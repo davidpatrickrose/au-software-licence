@@ -37,9 +37,13 @@ Software licensing is generally done on either a "per user" or "per installation
 
 https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 
-## Limits on suing
+## Claim limits
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
+
+## Covering costs
+
+https://github.com/CodePact/au-components/blob/widgets/indemnity.md
 
 ## Cancellation for breach
 
