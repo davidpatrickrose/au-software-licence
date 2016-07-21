@@ -1,6 +1,6 @@
 # Software Licence
 
-`Purpose` This template is for the creation of simple software licences (also known as "EULAs") in the Australian market. The document is aimed at software that is sold once: not software that's sold on a subscription model.
+`Purpose` This template is for the creation of simple software licences (also known as "EULAs") in the Australian market. The document is aimed at software that is sold once: **not** software that's sold on a subscription model.
 
 `Party 1 Name` Contractor
 
@@ -10,7 +10,7 @@
 
 ## Agreement creation
 
-### Customer creates the Agreement by using the Service.
+### A contract is formed when the Customer uses the Service.
 
 Customer agrees to the terms of the Agreement by installing or using the Service.
 
@@ -31,7 +31,7 @@ Software licensing is generally done on either a "per user" or "per installation
 
 - Licences will be purchased by the Customer on a "per installation basis".
 - Customer agrees to purchase one Licence for "each computer that the Service is installed on".
-- Multiple individuals may use the Service provided it is "installed on one computer only".
+- Multiple individuals may use the Service when it is "installed on one computer only".
 
 ## IP Protection
 
